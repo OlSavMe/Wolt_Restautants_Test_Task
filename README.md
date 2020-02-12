@@ -1,4 +1,7 @@
-The woltapp application is designed using React Material-UI. For navigation purposes, react-router-dom is used.
+<a href="https://imgflip.com/gif/3p0qdo"><img src="https://i.imgflip.com/3p0qdo.gif" title="made at imgflip.com"/></a>
+
+
+This woltapp application is created using React Material-UI. For navigation purposes, react-router-dom is used.
 
 To install required dependencies, run:
 
