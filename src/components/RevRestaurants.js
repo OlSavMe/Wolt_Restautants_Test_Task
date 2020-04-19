@@ -49,6 +49,7 @@ export default function RevRestaurants() {
 
     return (
         <>
+            <h1>All Wolt Restaurants</h1>
             <GridList cols={3} cellHeight={250} style={{ margin: '200', width: '100%' }} className={classes.gridList}>
                 <GridListTile key="Subheader" cols={3} style={{ height: 'auto', }}>
                     <ListSubheader component="div">
